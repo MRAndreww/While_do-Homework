@@ -19,7 +19,7 @@ public class Main {
         while (total < 2_459_000) {
             total = total + salary;
             month++;
-            System.out.println("Месяц " + month + " сумма накопений равна " + total + " рублей");
+            System.out.println("Месяц " + month + " сумма накопений равна " + total + " рублей!");
         }
     }
 
